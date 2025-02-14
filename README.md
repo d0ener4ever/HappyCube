@@ -10,7 +10,6 @@ It also has a few extra features:
 
 - **Tells the time** by synchronizing with an online time server
 - **Answers important life questions** when you press its button, just like a wise oracle
-- **Displays emotions** with animated eyes that move and blink randomly
 
 ## **How It Works**
 
